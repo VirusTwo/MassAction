@@ -28,4 +28,4 @@ The MassAction plugin is now available.
 ## Screenshots & Gif :
 
 What change mass action plugin ? : 
-![AutoAddUsersScreen](https://github.com/VirusTwo/MassAction/blob/master/screenshots/MassActionPlugin.PNG)
+![MassActionScreen](https://github.com/VirusTwo/MassAction/blob/master/screenshots/MassActionPlugin.png)
